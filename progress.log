@@ -15,3 +15,4 @@ Persist tabs using localStorage
 Add code generator for tabs
 >>>>>>> feature/tabs
 Started tabs feature
+Allow editing tab titles and content
