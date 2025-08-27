@@ -17,3 +17,4 @@ Add code generator for tabs
 Started tabs feature
 Allow editing tab titles and content
 Save tabs in localStorage
+Generate HTML code from tabs
