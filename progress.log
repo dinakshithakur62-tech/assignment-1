@@ -16,3 +16,4 @@ Add code generator for tabs
 >>>>>>> feature/tabs
 Started tabs feature
 Allow editing tab titles and content
+Save tabs in localStorage
