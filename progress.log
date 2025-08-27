@@ -14,3 +14,6 @@ Add tab content editing
 Persist tabs using localStorage
 Add code generator for tabs
 >>>>>>> feature/tabs
+Started navbar
+Added dark mode toggle in navbar
+Improved navbar styling
