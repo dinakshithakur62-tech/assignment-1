@@ -1,0 +1,16 @@
+Starting navbar...
+Added theme toggle
+Initial tabs
+Added localStorage support
+Theme work
+Improved styling
+<<<<<<< HEAD
+Started navbar implementation
+Added dark mode toggle to navbar
+Improved navbar styling
+=======
+Initial tabs setup
+Add tab content editing
+Persist tabs using localStorage
+Add code generator for tabs
+>>>>>>> feature/tabs
